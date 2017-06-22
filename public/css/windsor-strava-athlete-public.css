@@ -1,0 +1,135 @@
+.wsa-wrap{
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 10px;
+	position: relative;
+}
+.wsa-map{
+	min-height: 600px;
+	width: 100%;
+}
+.wsa-timestamp{
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: #ccc;
+	color: #fff;
+	padding: 5px 10px;
+	font-size: 12px;
+}
+.wsa-brand{
+	overflow: hidden;
+}
+.wsa-brand > img{
+	float: left;
+	border: 3px solid #e3e3e3;
+	border-radius: 100% !important;
+	margin-right: 10px;
+}
+.wsc-label > img{
+	border-radius: 100% !important; 
+}
+.wsa-name{
+	font-size: 20px;
+	padding-top: 10px;
+}
+.wsa-name a,
+.wsa-name a:hover,
+.wsa-name a:visited,
+.wsa-name a:link,
+.wsa-name a:active
+{
+	color: #e34402;
+	text-decoration: none;
+	box-shadow: none;
+}
+#wsa .credits{
+	clear: both;
+	font-size: 11px;
+}
+.wsa-friends{
+	margin-top: 10px;
+}
+.wsa-friends > div{
+	display: inline-block;
+	margin-right: 6px;
+	padding: 10px 10px;
+	background-color: #e34402;
+	color: #fff;
+	font-size: 10px;
+}
+.wsa-stats > div{
+	margin-top: 20px;
+}
+.wsa-credits{
+	margin-top: 20px;
+}
+.wsa-sub-head{
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+.wsa-clubs{
+	margin-top:10px;
+}
+.wsa-clubs span{
+	display: inline-block;
+}
+.wsa-clubs img{
+	width: 25px;
+	height: 25px;
+}
+.wsa-bikes, .wsa-stat-wrap{
+	margin-top: 10px;
+}
+.wsa-key{
+	font-size: 12px;
+	color: #333;
+}
+.wsa-val{
+	font-size: 12px;
+	color: #e34402;
+}
+.measure{
+	font-size: 9px;
+	color: #BCBCBC;
+}
+.ride-name{
+	color: #e34402;
+}
+.wsa-feed{
+	padding: 20px;
+	border: 1px solid #ccc;
+}
+.wsa-activity{
+	padding: 10px 0;
+	margin-bottom: 10px;
+	background: #fff;
+}
+.wsa-date{
+	color: #AEAEAE;
+	font-size: 14px;
+	font-weight: lighter;
+	line-height: 1;
+}
+.wsa-meta{
+	color: #666;
+	font-size: 16px;
+}
+.activity-title a{
+	color: #333;
+	text-decoration: none;
+	font-size: 23px;
+	box-shadow: none !important;
+}
+.activity-title a:hover{
+	color: #e34402;
+}
+.activity-type{
+	background: #D6D6D6;
+	display: inline-block;
+	padding: 3px 5px;
+	font-size: 12px;
+	color: #fff;
+}
+.powered-by-wsa{font-size: 9px; margin-top: 10px;}
